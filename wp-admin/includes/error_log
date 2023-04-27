@@ -1,0 +1,8 @@
+[27-Oct-2021 10:11:50 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home2/johnhal6/public_html/wp-admin/includes/class-wp-comments-list-table.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/johnhal6/public_html/wp-admin/includes/class-wp-comments-list-table.php on line 18
+[27-Oct-2021 23:59:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home2/johnhal6/public_html/wp-admin/includes/deprecated.php:1530
+Stack trace:
+#0 {main}
+  thrown in /home2/johnhal6/public_html/wp-admin/includes/deprecated.php on line 1530
